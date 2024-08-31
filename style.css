@@ -1,0 +1,72 @@
+body{
+    background-color:hsl(0, 0%, 8%);
+    font-family: "Inter", sans-serif;
+
+}
+
+.main-container{
+    background-color:#1f1f1f;
+    height: 500px;
+    width: 300px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.image{
+   border-radius:60% ;
+   height: 50px;
+   margin-left: 125px;
+   margin-top:50px;
+}
+.Jessica{
+    text-align: center;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 6px;
+    color: hsl(0, 0%, 100%)
+
+   
+}
+
+.Londan{
+    text-align: center;
+    margin: 0px;
+    font-size: 13px;
+    color:hsl(75, 94%, 57%)
+}
+
+.div1 p{
+    text-align: center;
+    color:#c4c4c4;
+
+}
+
+.button{
+    text-align: center;
+  height: 30px;
+    /* background-color: hsl(0, 0%, 12%) */
+    
+   
+}
+
+.btn button{
+    border: none;
+    padding: 8px;
+    margin: 10px;
+    width: 80%;
+    margin-left: 30px;
+    border-radius: 10px;
+     background-color:hsl(0, 0%, 20%);
+     color:white;
+     font-weight: 600;
+     cursor: pointer;
+     
+}
+
+.btn button:hover{
+  background-color:hsl(75, 94%, 57%);
+  color: hsl(0, 0%, 8%);
+  
+}
+
